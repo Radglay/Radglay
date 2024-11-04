@@ -21,7 +21,9 @@ Here are some ideas to get you started:
   </div>
   <div id="technology-stack">
     <h2> Technolog Stack</h2>
-      <image src="https://img.shields.io/badge/C++-blue.svg" alt="C++ banner"/>
-      <image src="https://img.shields.io/badge/qt%20Widgets-green.svg" alt="qt Widget banner"/>
-  </div>
+      <image src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ badge"/>
+      <image src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake badge"/>
+      <image src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white" alt="Qt Widgets badge"/>
+      <image src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java badge"/>
+ </div>
 </div>
