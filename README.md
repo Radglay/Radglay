@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div id="content">
+  <div id="banner">
+    <img src="digitization.png" alt="digitization image"/>
+  </div>
+  <div id="technology-stack">
+    <h2> Technolog Stack</h2>
+      <image src="https://img.shields.io/badge/C++-blue.svg" alt="C++ banner"/>
+      <image src="https://img.shields.io/badge/qt%20Widgets-green.svg" alt="qt Widget banner"/>
+  </div>
+</div>
