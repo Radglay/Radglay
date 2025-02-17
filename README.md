@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I graduated from AGH univeristy in Krakow as a computer science engineer. I'm a computer science passionate interested in low-level concepts, operating systems, networking and security.  
+I graduated from AGH univeristy in Krakow with a Bachelor of Engineering in computer science. I'm a computer science passionate interested in low-level concepts, operating systems, networking and security.  
 ## Primary Languages & Tools:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
